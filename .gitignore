@@ -1,0 +1,4 @@
+forum-api-app-server.pem
+node_modules
+.env
+config/database
